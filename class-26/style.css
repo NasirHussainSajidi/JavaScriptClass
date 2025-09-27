@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background:linear-gradient(120deg,red,green,blue,yellow,black,white,rgb(9, 160, 214)), purple ;
+    color: white;
+    font-size: 60px;
+}
+#clock{
+    border: 3px solid white;
+    padding: 20px 50px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 5px;
+    box-shadow: 0 0 20px white;
+    background:linear-gradient(120deg,red,green,blue,yellow,black,rgb(210, 178, 18),rgb(9, 160, 214)), purple ;
+    
+}
